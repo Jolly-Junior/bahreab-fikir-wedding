@@ -2,8 +2,8 @@ export const weddingConfig = {
   couple: {
     bride: 'Bahreab',
     groom: 'Fikir',
-    brideAlt: 'ባህርያብ',
-    groomAlt: 'ፍክር',
+    brideAlt: 'ባህረ አብ',
+    groomAlt: 'ፍቅር',
   },
   weddingDate: new Date('2026-06-25T09:00:00').getTime(),
   events: [
