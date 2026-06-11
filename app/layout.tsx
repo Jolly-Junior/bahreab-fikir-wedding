@@ -9,7 +9,7 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'Alemitu & Bekele - Wedding Invitation',
+  title: 'Bahreab & Fikir - Wedding Invitation',
   description: 'Join us in celebrating the union of Alemitu and Bekele in traditional Ethiopian ceremony',
   generator: 'v0.app',
   icons: {
