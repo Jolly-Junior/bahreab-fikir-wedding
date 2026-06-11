@@ -91,6 +91,7 @@ Submission Time: ${new Date().toLocaleString()}`,
     }
   } catch (error: any) {
     console.error('[v0] Email sending error:', error.message)
+    console.error('[v0] Error details:', error.response?.data || error)
 
     return NextResponse.json(
       {

@@ -60,7 +60,7 @@ export const weddingConfig = {
   },
   web3forms: {
     accessKey: '47fe4974-7c5a-496a-b1b1-2c6945e31f52',
-    apiEndpoint: 'https://api.web3forms.com/submit',
+    apiEndpoint: 'https://api.web3forms.com/api/request',
   },
   location: {
     city: 'Addis Ababa',
